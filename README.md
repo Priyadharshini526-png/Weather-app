@@ -23,4 +23,4 @@ TECH STACK
 LIVE DEMO
 ----------------------------------
 
-[https://<your-vercel-or-github-url>](https://<your-vercel-or-github-url>)  
+[https://<your-vercel-or-github-url>](https://weather-report-update.vercel.app/)  
